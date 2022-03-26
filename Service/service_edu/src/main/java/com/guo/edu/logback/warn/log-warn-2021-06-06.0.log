@@ -1,0 +1,6 @@
+2021-06-06 12:38:03.425 [main] WARN  o.s.c.netflix.archaius.ArchaiusAutoConfiguration - No spring.application.name found, defaulting to 'application'
+2021-06-06 12:38:03.436 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-06 12:38:03.479 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-06 12:38:24.581 [main] WARN  o.s.c.alibaba.nacos.registry.NacosServiceRegistry - No service to register for nacos client...
+2021-06-06 12:41:51.125 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2021-06-06 12:41:51.135 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.

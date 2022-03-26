@@ -1,0 +1,21 @@
+2021-05-21 14:56:20.919 [main] INFO  com.EduApplication - Starting EduApplication using Java 1.8.0_131 on GuoSheng-computer with PID 20708 (F:\Java\lean_java\guli_parent\Service\service_edu\target\classes started by GuoSheng in F:\Java\lean_java\guli_parent)
+2021-05-21 14:56:20.931 [main] INFO  com.EduApplication - The following profiles are active: dev
+2021-05-21 14:56:26.238 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-05-21 14:56:26.246 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-05-21 14:56:33.969 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 7692 ms. Found 0 Redis repository interfaces.
+2021-05-21 14:56:35.434 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+2021-05-21 14:56:35.455 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+2021-05-21 14:56:35.456 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-05-21 14:56:35.457 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-21 14:56:35.750 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-05-21 14:56:35.751 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 14396 ms
+2021-05-21 14:56:36.247 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-05-21 14:56:36.946 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-05-21 14:56:38.216 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-05-21 14:56:38.554 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-21 14:56:40.170 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+2021-05-21 14:56:40.289 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+2021-05-21 14:56:40.291 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-05-21 14:56:40.336 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-05-21 14:56:40.458 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-05-21 14:56:40.911 [main] INFO  com.EduApplication - Started EduApplication in 23.477 seconds (JVM running for 31.173)
